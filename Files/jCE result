@@ -1,0 +1,46 @@
+Align file:/../media/alessandro/DATA/User/BIOINFORMATICA.BOLOGNA/LaboratoryOfBioinformatic/Files/1gyc_2.pdb.pdb 498 with file:/media/alessandro/DATA/User/BIOINFORMATICA.BOLOGNA/LaboratoryOfBioinformatic/Files/2nd%20run/B0JDP9.B99990002.pdb.pdb 496
+Twists 0 ini-len 496 ini-rmsd 0.27 opt-equ 494 opt-rmsd 0.26 chain-rmsd 0.26 Score 1380.12 align-len 500 gaps 6 (1.20%)
+Z-score 8.30 Afp-num 5 Identity 61.00% Similarity 71.40%
+Block  0 afp  0 score  0.00 rmsd  0.26 gap 0 (NaN%)
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:    1 AIGPAASLVVANAPVSPDGFLRDAIVVNGVFPSPLITGKKGDRFQLNVVDTLTNHTMLKSTSIHWHGFFQ
+              .|||...|.:||..:.||||.|.|:...|.:|.|||.|..|||||:|||..|....|...|||||||.|.
+Chain 2:    1 SIGPRGTLNIANEVIKPDGFSRSAVLAGGSYPGPLIKGETGDRFQINVVNKLADTSMPVDTSIHWHGIFV
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:   71 AGTNWADGPAFVNQCPIASGHSFLYDFHVPDQAGTFWYHSHLSTQYCDGLRGPFVVYDPKDPHASRYDVD
+              .|.|||||||.|.||||..||||||||.:|||||||||||||.||||||||||||||...|||...||||
+Chain 2:   71 RGHNWADGPAMVTQCPIVPGHSFLYDFEIPDQAGTFWYHSHLGTQYCDGLRGPFVVYSKNDPHKRLYDVD
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:  141 NESTVITLTDWYHTAARLGPRFPLGADATLINGLGRSASTPTAALAVINVQHGKRYRFRLVSISCDPNYT
+              .||||:|..||||.........| ..|.||.||||||...|...|.|.||..|||||.||:..|||.||.
+Chain 2:  141 DESTVLTVGDWYHAPSLSLSGVP-HPDSTLFNGLGRSLNGPASPLYVMNVVKGKRYRIRLINTSCDSNYQ
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:  211 FSIDGHNLTVIEVDGINSQPLLVDSIQIFAAQRYSFVLNANQTVGNYWIRANPNFGTVGFAGGINSAILR
+              ||||||..||||.||.|.|||.||.:||||.||||.||||||.|||||||||||.|..|||...||||||
+Chain 2:  210 FSIDGHAFTVIEADGENTQPLQVDQVQIFAGQRYSLVLNANQAVGNYWIRANPNSGDPGFANQMNSAILR
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:  281 YQGAPVAEPTTTQTTSVIPLIETNLHPLARMPVPGSPTPGGVDKALNLAFNFNGTN--FFINNASFTPPT
+              |.||...:|||.:.....||.|.||.||.:.|.||.|.|||.|..:||.|.|....  |..||..|.|||
+Chain 2:  280 YKGARNVDPTTPERNATNPLREYNLRPLIKEPAPGKPFPGGADHNINLNFAFDPATVLFTANNYTFVPPT
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:  349 VPVLLQILSGAQTAQDLLPAGSVYPLPAHSTIEITLPATALAPGAPHPFHLHGHAFAVVRSAGSTTYNYN
+              ||||||||||...|.||.||||:|.:.....:|:|:||...|  .|||.|||||.|||||||||.||||.
+Chain 2:  350 VPVLLQILSGTRDAHDLAPAGSIYDIKLGDVVEVTMPALVFA--GPHPMHLHGHSFAVVRSAGSSTYNYE
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:  419 DPIFRDVVSTGTPAAGDNVTIRFQTDNPGPWFLHCHIDFHLEAGFAIVFAEDVADVKAANPVPKAWSDLC
+              .|:.|||||.|... .|||||||..||.||||||||||.||:.|||:||||.|.....|||||.||.|||
+Chain 2:  418 NPVRRDVVSIGDDP-TDNVTIRFVADNAGPWFLHCHIDWHLDLGFAVVFAEGVNQTAVANPVPEAWNDLC
+
+                  .    :
+Chain 1:  489 PIYDGLSEAN
+              |||.......
+Chain 2:  487 PIYNSSNPSK
+
+Note: positions are from PDB; | means alignment of identical amino acids, : of similar amino acids 
